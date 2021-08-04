@@ -26,7 +26,7 @@ practice exam. This will allow quicker feedback, greater accuracy and easier stu
 ***In the Terminal run***
 ```Bash
 git clone https:://github.com/Matt-Cohen-CS
-python3 Comptia_Grader.py
+python3 CompTia_Grader.py
 ```
 
 [comment]: <> (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
