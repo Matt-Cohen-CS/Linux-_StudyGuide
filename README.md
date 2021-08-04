@@ -1,4 +1,6 @@
-#CompTia Linux+ AnswerKey Maker
+# Purpose
+The point of this script is to easily get answers to the Comptia Linux+ study guide exam questions. This is not the "official" exam but just the
+practice exam. This will allow quicker feedback, greater accuracy and easier studying by allowing users to simply put the answers in a text file and simply run the script. Development took roughly 4 - 6 hours and the script has easily saved me 15-30 minutes per chapter attempt. 
 
 ## Prereqs:
 1. Python3
