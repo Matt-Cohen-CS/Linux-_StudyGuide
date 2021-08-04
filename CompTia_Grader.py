@@ -126,7 +126,7 @@ def getScoreFromAnswerKey():
     print("Questions Correct: " + str(correctCount) + "\t" + "Total Questions: " + str(length))
 
 def main():
-    makeAnswerKey() # makes a key
+   # makeAnswerKey() # makes a key
     getScoreFromAnswerKey() # uses the key and chapter number to generate a grade
 
 main()
